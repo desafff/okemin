@@ -5,13 +5,6 @@
         "url": "stratum+tcp://ap.luckpool.net:3960",
 		"timeout": 150,
 		"disabled": 0
-	},
-	{
-		"name": "nt3",
-        "url": "stratum+tcp://ap.luckpool.net:3960",
-		"timeout": 60,
-		"time-limit": 600,
-		"disabled": 0
 	}],
 	
 	"user": "R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T.nt3",
